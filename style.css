@@ -100,7 +100,7 @@ header {
     position: relative;
 }
 
-.playlists:nth-child(6) {
+.playlists:nth-child(3) {
     box-shadow: 2px 3px 20px rgb(230, 230, 230);
 }
 
